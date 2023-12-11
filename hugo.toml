@@ -1,0 +1,5 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = '目录结构'
+defaultContentLanguage = 'zh'
+theme = 'hugo-book'
